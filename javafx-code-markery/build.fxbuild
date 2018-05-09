@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <anttasks:AntTask xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:anttasks="http://org.eclipse.fx.ide.jdt/1.0" buildDirectory="${project}/build">
-  <deploy>
-    <application name="javafx-code-markery"/>
-    <info/>
+  <deploy height="" placeholderref="" placeholderid="" width="" packagingFormat="dmg">
+    <application name="javafx-code-markery" mainclass="ch.makery.address.MainApp" version="1.0"/>
+    <info title="AddressApp" vendor="Yoyo"/>
   </deploy>
-  <signjar/>
+  <signjar alias="" keypass="" keystore="" storepass=""/>
 </anttasks:AntTask>
